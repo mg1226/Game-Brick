@@ -1,0 +1,15 @@
+body {
+}
+
+#gameScreen {
+  border: 1px solid black;
+  background: #93E1D8
+ 
+}
+img {
+  display: none;
+}
+
+div {
+  text-align: center
+}
